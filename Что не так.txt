@@ -1,0 +1,29 @@
+1. Присутствует нижний скролл
+2. второй блок Left 52 width auto 
+	картинку отпозиционировать с background
+   	контент display flex
+		align-items center
+3. Надо чтобы у New при клике был класс active.
+4. в nav before absolut hover::before
+5 - 242424 - графитовый цвет
+6 h1 только один
+  h2 может быть не больше трёх
+  h3 
+7 избавиться от блока fix
+	padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+280
+button
+fa fa-chevron-right
+top: 0;
+left: 0;
+margin: 0;
+bottom: 0;
+299
+9
+
+8. форма request
+ type email 
