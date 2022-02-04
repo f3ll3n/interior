@@ -1,2 +1,0 @@
-# interior
-test project
